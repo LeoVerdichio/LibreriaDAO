@@ -15,6 +15,7 @@ public class Autor {
     
     private String atrib1;
     private String lol;
+    private String login;
 
     public Autor() {
     }
