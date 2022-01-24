@@ -12,6 +12,8 @@ public class Autor {
     @Column(unique = true)
     private String nombre;
     private Boolean alta;
+    
+    private String atrib1;
 
     public Autor() {
     }
